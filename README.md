@@ -7,6 +7,8 @@ awesome awesomeness
 
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的计算机编程类中文书籍
 
+- [free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh)  国内免费服务聚合
+
 - [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2) hacke2/hacke2.github.io#2
 
 - [精华网站集锦](http://www.jianshu.com/p/9e65fa0b808e) 简书 henu王凯
@@ -27,6 +29,8 @@ awesome awesomeness
 
 - [Internet of Things](https://github.com/phodal/awesome-iot) 物联网资料收集
 
+- [Web Developer 学习路线图](https://github.com/phodal/awesome-developer)
+
 ## 编程语言
 
 - Android
@@ -34,6 +38,7 @@ awesome awesomeness
   - [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/) 
   - [android-open-project](https://github.com/Trinea/android-open-project) Android开源项目分类汇总
   - [Point-of-Android](https://github.com/FX-Max/Point-of-Android) Android 一些重要知识点解析整理
+  - [Android开发相关的博客、文章、教程](https://github.com/HanderWei/Android-Blogs)
  
 - C/C++
 
